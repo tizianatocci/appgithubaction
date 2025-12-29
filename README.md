@@ -1,7 +1,9 @@
 ## 📘 Lesson Overview
 
 **Course:** *Complete MLOps Bootcamp With 10+ End-To-End ML Projects*  
-**Lesson Goal:** Learn how to use **GitHub Actions** for CI/CD automation.
+**Lesson Goal:** Learn how to use **GitHub Actions** for CI/CD automation.  
+
+⚠️ Note: This lesson project is based on the course code-along, with hands-on implementation for learning purposes. Any additional configurations or adaptations reflect personal experimentation.
 
 ---
 
